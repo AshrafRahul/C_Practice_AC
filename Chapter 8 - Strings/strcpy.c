@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 int main(){
-    char oldStr[] = "hunulululu";
+    char oldStr[] = "OldString";
     char newStr[] = "NewString";
 
-    strcpy(newStr, oldStr);
-    puts(newStr);
+    strcpy(newStr, oldStr); //copy all the elements from oldStr to newStr
+    puts(newStr); //printing copied element
 
     return 0;
 }
