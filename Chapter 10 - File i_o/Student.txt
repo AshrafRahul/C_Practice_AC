@@ -1,3 +1,0 @@
-Student name: Ashraful
-Student age: 22
-Student CGPA: 9.20
